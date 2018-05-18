@@ -1,7 +1,7 @@
 html {
 
-    background-color: #8a8b9d;
-
+    background-color: #b0a36f;
+    background-image: url(Resource/border.png);
 }
 
 Body {
@@ -28,12 +28,22 @@ a {
     text-decoration: none;
     font-family: 'Shadows Into Light', cursive;
     text-align: center;
+    text-decoration-color: aliceblue;
+}
+
+a:link,
+
+a:visited {
+
+    color: #b3b376;
+    text-decoration: none;
 
 }
 
 img {
 
-    border: solid #000 5pt;
+    border: solid #8a8b9d 10pt;
+    color: #b3b376;
 
 
 }
@@ -66,9 +76,11 @@ ul {
 h1 {
 
     font-family: 'Permanent Marker', cursive;
+
 }
 
 h3 {
 
     font-family: 'Permanent Marker', cursive;
+
 }
