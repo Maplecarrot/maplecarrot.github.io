@@ -28,14 +28,24 @@ a {
     text-decoration: none;
     font-family: 'Shadows Into Light', cursive;
     text-align: center;
-    text-decoration-color: aliceblue;
+
 }
 
-a:link,
+a:link {
+    color: azure;
+    text-decoration: none;
+}
 
 a:visited {
 
     color: #b3b376;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color: #9edecc;
     text-decoration: none;
 
 }
